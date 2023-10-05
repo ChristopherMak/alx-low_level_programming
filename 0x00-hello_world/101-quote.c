@@ -2,13 +2,13 @@
 #include <unistd.h>
 
 /**
- * main - Entry point
+ * main - entry point
  *
- * Return: Always 1 (Success)
+ * return: always 1 (success)
  */
 int main(void)
 {
 	write(2,
 	"and that pieceof art is useful\" - Dora korpar, 2015-10-19\n", 59);
-	Return (1)
+	return (1)
 }
