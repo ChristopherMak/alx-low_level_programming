@@ -12,5 +12,6 @@ int is_prime_number(int n);
 int is_palindrome(char *s);
 int _sqrt(int n, int i);
 int sqrt_a(int a, int b);
+int prime_a(int a, int b);
 
 #endif
