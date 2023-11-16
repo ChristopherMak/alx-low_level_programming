@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void first(void)__atrribute__((constructor));
+void first(void)__attribute__((constructor));
 
 /**
  * first - A funct that prints a sentence before the main
