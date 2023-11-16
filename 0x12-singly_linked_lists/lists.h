@@ -6,6 +6,9 @@
  * @str: string or malloced string
  * @len: The length of the string
  * @next: The pointer to the next node
+ *
+ * Desscription: singly linked list node structure
+ * for Hlberton project
  */
 
 typedef struct list_s
