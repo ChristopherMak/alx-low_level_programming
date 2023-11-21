@@ -1,9 +1,8 @@
 #include "lists.h"
-#include <stdio.h>
 
 /**
  * print_listint - A funct that prints all elements of a listint_t list
- * @h: The head of the link lisr node
+ * @h: The head of the link list node
  * Return: The number of nodes
  */
 
